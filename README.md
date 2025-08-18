@@ -29,3 +29,20 @@ Atualmente estou aprimorando minhas habilidades com projetos em:
 ---
 
 > Em constante evolução e pronta para novas oportunidades. 💡✨
+
+# Projeto de Design Profissional
+
+## Especificações Técnicas Obrigatórias
+Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando tecnologias comuns de front-end.
+
+## Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+## O que aprendi
+- Criar e organizar componentes de interface;
+- Passar dados entre componentes (props);
+- Gerenciar estado simples da aplicação (useState);
+- Aplicar estilos e layout usando CSS.
