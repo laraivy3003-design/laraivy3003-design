@@ -1,48 +1,22 @@
-# Olá, eu sou a Lara 👩🏽‍💻
+# Olá, eu sou a Lara! 👋
 
-Sou **acadêmica de Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia, com foco em desenvolvimento *front-end* e interesse em Inteligência Artificial.
+![GIF de boas-vindas](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Atualmente estou aprimorando minhas habilidades com projetos em:
+Sou **estudante de Análise e Desenvolvimento de Sistemas** e estou começando minha jornada em programação e tecnologia.  
+Adoro aprender, organizar e transformar ideias em projetos digitais.
 
-- **HTML5, CSS3 e JavaScript (ES6+)**
-- **React**
-- **Git e GitHub**
+## 🔧 Tecnologias que estou aprendendo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 O que estou estudando
+## 📚 Objetivos
+- Criar projetos pessoais e aplicar meus aprendizados  
+- Conectar teoria e prática em programação  
+- Compartilhar meu portfólio digital e evolução  
 
-- Fundamentos de programação
-- Estruturas de dados e lógica
-- Programação web com React
-
-## 📁 Projetos em destaque
-
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| Calculadora de Orçamento Pessoal | React, JS | App simples que registra despesas mensais para controle financeiro |
-| Projeto 2 (exemplo) | HTML, CSS | Meu primeiro site estático de estudo |
-
-## 📫 Conecte-se comigo
-
-- **LinkedIn:** https://www.linkedin.com/in/lara-moreira-alves753140322  
-- **Email:** laraivy3003@gmail.com  
-
----
-
-> Em constante evolução e pronta para novas oportunidades. 💡✨
-
-# Projeto de Design Profissional
-
-## Especificações Técnicas Obrigatórias
-Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando tecnologias comuns de front-end.
-
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-
-## O que aprendi
-- Criar e organizar componentes de interface;
-- Passar dados entre componentes (props);
-- Gerenciar estado simples da aplicação (useState);
-- Aplicar estilos e layout usando CSS.
+## 📫 Me encontre em:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
