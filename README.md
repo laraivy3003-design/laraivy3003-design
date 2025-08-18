@@ -22,27 +22,3 @@ Adoro aprender, organizar e transformar ideias em projetos digitais.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 
-# 💰 Calculadora de Organização Financeira
-
-Uma **calculadora simples** para controlar suas receitas e despesas mensais.  
-Ideal para quem quer organizar o orçamento e planejar melhor o dinheiro.
-
-## 🔧 Tecnologias utilizadas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🎯 Funcionalidades
-- Adicionar receitas e despesas  
-- Calcular saldo automaticamente  
-- Interface simples e intuitiva  
-
-## 📚 Aprendizado
-- Criar funções básicas em JavaScript  
-- Manipular elementos da página com DOM  
-- Estruturar um projeto completo do zero  
-
-## 🚀 Próximos passos
-- Melhorar o design da interface  
-- Adicionar gráfico de despesas  
-- Criar versão mobile-friendly
